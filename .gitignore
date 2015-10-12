@@ -17,3 +17,13 @@ themes/*
 
 # User config
 config.php
+config/*
+
+# logic
+lib/*
+plugins/*
+
+# misc
+index.php
+license.txt
+changelog.txt

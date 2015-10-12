@@ -18,6 +18,7 @@ themes/*
 # User config
 config.php
 config/*
+.htaccess
 
 # logic
 lib/*

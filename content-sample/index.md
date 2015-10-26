@@ -1,4 +1,9 @@
 /*
-Title: Gelassenheit durch Kompetenz
-Description: Wenn Menschen zusammenkommen entstehen Konflikte. Wir lösen das.
+Title: Willkommen
+Author: Martin Delius
+Date: 2014/05/29  
+Subtext: Gelassenheit durch Kompetenz
+Icon: uk-icon-file-o
+Sidebar: None
 */
+

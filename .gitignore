@@ -15,15 +15,18 @@ Thumbs.db
 themes/*
 !themes/index.html
 !themes/skull/*
+!themes/uikit/*
 
 # User config
 config.php
 config/*
 .htaccess
+!config/config.php
 
 # logic
 lib/*
 plugins/*
+!plugins/puik/*
 
 # misc
 index.php

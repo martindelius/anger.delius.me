@@ -98,7 +98,7 @@
 				});
 			});
 			
-			// Save post
+			// Save post but don't blink
 			editor.on('autosave', function () {
 				$('#saving').text('Saving...').addClass('active');
 				$.post('admin/save', { file: $('#epiceditor').data('currentFile'), content: editor.exportFile() }, function(data){

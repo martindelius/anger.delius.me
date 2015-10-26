@@ -1,8 +1,8 @@
 /*
-Title: Angebote
+Title: Über uns
 Author: Martin Delius
 Date: 2015/10/16
-Subtext: Was können wir für sie tun?
+Subtext: Unruhe ist unser Geschäft.
 Icon: uk-icon-file-o
 Sidebar: None
 */

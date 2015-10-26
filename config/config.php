@@ -50,7 +50,7 @@ date_default_timezone_set('UTC');              // Timezone may be reqired by you
  */
 // $config['custom_setting'] = 'Hello';           // Can be accessed by {{ config.custom_setting }} in a theme
 
-$config['puik']['width'] = 'fixed';
+$config['puik']['width'] = 'fluid';
 $config['puik']['style'] = 'almost-flat';
 $config['puik']['global_navbar_sticky'] = 'Yes'; 
 $config['puik']['global_sidebar'] = 'Right';
